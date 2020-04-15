@@ -1,7 +1,7 @@
 Hellow Guys! TEch Accents is A Tech Blog here you get information about technology or smartphones. SO Vist = <a href="https://www.techaccents.com">Tech Accents</a>
 
 
-Read How to use Hotstar premium account Free = <a href="https://www.techaccents.com/2020/04/hotstar-premium-account-free.html">Hotstar premium account</a>
+Read How to use Hotstar premium account Free = <a href="https://www.techaccents.com/2020/04/hotstar-premium-account-free.html" rel="follow">Hotstar premium account</a>
 
 
 Technology, the application of scientific knowledge to the practical aims of human life or, as it is sometimes phrased, to the change and manipulation of the human environment.
